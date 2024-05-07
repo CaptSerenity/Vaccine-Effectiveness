@@ -36,5 +36,5 @@ The DOC folder contains essential documentation for the project.
 CODE:
 The CODE folder houses all necessary code files for the project. Please ensure you have the required dependencies installed before running the analysis script.
 
-For any questions or issues, contact cbenjamin2@student.clayton.edu.
+For any questions or issues, contact cbenjamin0909@gmail.com
 
